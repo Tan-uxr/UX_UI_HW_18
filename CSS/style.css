@@ -89,12 +89,15 @@ body {
   display: grid;
   grid-template-areas: 'name1 name2 name3 name4';
 }
+.workGrid > div {
+  background-color: white;  
+}
 
 @media only screen and (max-width: 600){
   
 }
 
-#categoryGrid{
+.categoryGrid{
   margin: 0px 5%;
   display: grid;
   grid-template-rows: 400px 400px;
