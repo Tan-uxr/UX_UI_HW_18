@@ -90,7 +90,7 @@ body {
   grid-template-areas: 'name1 name2 name3 name4';
 }
 .workGrid > div {
-  background-color: white;  
+  background-color: #d5e9f1;  
 }
 
 @media only screen and (max-width: 600){
